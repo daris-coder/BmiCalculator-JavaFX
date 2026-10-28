@@ -38,8 +38,11 @@ Aplikasi kalkulator Indeks Massa Tubuh (Body Mass Index) berbasis desktop yang d
    ```bash
    git clone https://github.com/daris-coder/BmiCalculator-JavaFX.git
    ```
+   ```
    1. Masuk ke folder proyek:
    cd BmiCalculator-JavaFX
+   ```
+   ```
    2. Jalankan via Maven:
    mvn clean javafx:run
-   
+   ```
