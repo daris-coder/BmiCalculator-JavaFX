@@ -40,6 +40,6 @@ Aplikasi kalkulator Indeks Massa Tubuh (Body Mass Index) berbasis desktop yang d
    
 Masuk ke folder proyek 
 ketik : cd BmiCalculator-JavaFX,
-Jalankan via Maven: 
+Jalankan via Maven
 ketik : mvn clean javafx:run
    
