@@ -46,3 +46,6 @@ Aplikasi kalkulator Indeks Massa Tubuh (Body Mass Index) berbasis desktop yang d
    ```
    mvn clean javafx:run
    ```
+
+   <img width="475" height="565" alt="image" src="https://github.com/user-attachments/assets/5377f8dc-6e3b-4c02-8bd2-eb6be6fe2b1c" />
+
